@@ -1,0 +1,60 @@
+body{
+  background-color: #EAF6F6;
+}
+@media (max-width:900px) {
+  h1{
+    color: #66BFBF;
+    font-size: 200%;
+  }
+  h1{
+    color: #66BFBF;
+    font-size: 200%;
+  }
+  h3{
+    color: brown;
+    font-size: 200%;
+  }
+  h2{
+    color: brown;
+    font-size: 200%;
+  }
+  hr{
+    margin-left: 50%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color:grey;
+    border-width:5px;
+    width: 5%;
+    font-size: 200%;
+  }
+  p{
+    font-size: 300%;
+  }
+}
+h1{
+  color: #66BFBF;
+}
+h3{
+  color: brown;
+}
+h2{
+  color: brown;
+}
+hr{
+  margin-left: 50%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color:grey;
+  border-width:5px;
+  width: 5%
+}
+.Container-fluid{
+    padding: 3% 10%;
+}
+.details{
+  padding-left: 5%;
+}
+.work{
+  text-align: left;
+  padding-left:22px;
+}
